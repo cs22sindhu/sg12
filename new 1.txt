@@ -1,0 +1,6 @@
+	1`student name    marks
+	student 1          26
+	student 2          85
+	student 3          74
+	student 4          96
+	student 5          58
